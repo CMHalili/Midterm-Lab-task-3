@@ -1,4 +1,4 @@
-# Midterm-Lab-task-3
+# [Midterm-Lab-task-3](https://github.com/user-attachments/files/19262675/Midterm.Lab.Task.3.Cassy.xlsx)
  This portfolio demonstrates how to use Excel to create an interactive Data Science Salary & Job Trends Dashboard. With the use of pivot tables, charts, slicers, and an optional map for visualization, it examines employment trends by industry, job dispersion, and compensation trends by position and firm size.  
 
 
@@ -35,17 +35,21 @@
 * The slicers should be functional and interactive
 
 # Screenshot During Analysis
-## Sal by Role type
- ![Image]()
-## Sal by Size
- ![Image]()
-## Sal by State
- ![Image]()
-## Sector by State
- ![Image]()
-## Sal by Sector
- ![Image]()
-## Dashboard
- ![Image]()
-## Map
- ![Image]()
+- Sal by Role type
+![Image](https://github.com/user-attachments/assets/b3497d42-f960-4fba-bdfb-94038a6f7957)
+
+- Sal by Size
+![Image](https://github.com/user-attachments/assets/d760d89f-c04e-42e1-8b5e-023ff5895006)
+
+- Sal by State
+![Image](https://github.com/user-attachments/assets/6a55d28d-adcb-4e2b-9765-81811ef9f259)
+- Sector by State
+![Image](https://github.com/user-attachments/assets/d1f6f441-d0bf-4f32-8905-44306f629de6)
+- Sal by Sector
+![Image](https://github.com/user-attachments/assets/51a99d34-5cff-4f41-a5e9-b26e5e0e6301)
+- Dashboard
+![Image](https://github.com/user-attachments/assets/9e11bf7e-dada-4dfb-98c3-9344cb0e99de)
+![Image](https://github.com/user-attachments/assets/44cbaf3d-8665-4cd5-a561-c91ba9d05bda)
+- Map
+![Image](https://github.com/user-attachments/assets/a7967424-f322-458b-b17a-7a85acf07d65)
+
