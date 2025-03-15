@@ -35,4 +35,17 @@
 * The slicers should be functional and interactive
 
 # Screenshot During Analysis
-* Sal by Role type
+## Sal by Role type
+ ![Image]()
+## Sal by Size
+ ![Image]()
+## Sal by State
+ ![Image]()
+## Sector by State
+ ![Image]()
+## Sal by Sector
+ ![Image]()
+## Dashboard
+ ![Image]()
+## Map
+ ![Image]()
