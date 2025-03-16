@@ -1,4 +1,4 @@
-# [Midterm-Lab-task-3](https://github.com/user-attachments/files/19262675/Midterm.Lab.Task.3.Cassy.xlsx)
+# [Midterm-Lab-task-3](https://github.com/user-attachments/files/19271670/Midterm.Lab.Task.3.Cassy.xlsx)
  This portfolio demonstrates how to use Excel to create an interactive Data Science Salary & Job Trends Dashboard. With the use of pivot tables, charts, slicers, and an optional map for visualization, it examines employment trends by industry, job dispersion, and compensation trends by position and firm size.  
 
 
