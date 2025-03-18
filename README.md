@@ -54,7 +54,12 @@
 ### Dashboard
 - ![Image](https://github.com/user-attachments/assets/9e11bf7e-dada-4dfb-98c3-9344cb0e99de)
 - ![Image](https://github.com/user-attachments/assets/44cbaf3d-8665-4cd5-a561-c91ba9d05bda)
-  
+
+## Alternative Search Bar using (ƒ)SEARCH instead of (ƒ)FILTER
+- ![Image](https://github.com/user-attachments/assets/8f40c537-9166-4ded-b69e-67c64db89108)
+- ![Image](https://github.com/user-attachments/assets/7787e6a9-b023-49ae-aef6-d67c7ea162b5)
+- ![Image](https://github.com/user-attachments/assets/ff1cd145-82a8-4e0d-a4c4-bbfb21cc9774)
+
 ### Map
 - ![Image](https://github.com/user-attachments/assets/a7967424-f322-458b-b17a-7a85acf07d65)
 
